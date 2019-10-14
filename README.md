@@ -1,1 +1,1 @@
-psql-express-react-redux-starter
+# modern_fullstack_skeleton
